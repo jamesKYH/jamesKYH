@@ -25,5 +25,4 @@ Here are some ideas to get you started:
 
 
 
-### 🚩 Algorithm Ranking
-[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=aoukace)](https://solved.ac/profile/aoukace)
+![hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F&edge_flat=false&title=hits)
