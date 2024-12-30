@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 🦾 Skills
+**🧑‍💻 Lang and Frameworks**
+![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) 
+
+**🛠️ Infra and Tools**
+![C++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge) ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
