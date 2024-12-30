@@ -38,8 +38,7 @@
 
 **BE**
 
-![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
-
+![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)![Node.js](https://img.shields.io/badge/nodedotjs-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white) 
 
 
 
