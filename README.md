@@ -22,3 +22,8 @@ Here are some ideas to get you started:
 
 **🛠️ Infra and Tools**
 ![C++](https://img.shields.io/badge/C++-000000.svg?&style=for-the-badge) ![c](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white) 
+
+
+
+### 🚩 Algorithm Ranking
+[![Algorithm Ranking](https://mazassumnida.wtf/api/v2/generate_badge?boj=aoukace)](https://solved.ac/profile/aoukace)
